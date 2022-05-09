@@ -1,0 +1,1 @@
+The brain is a complex organ that controls thought, memory, emotion, touch, motor skills, vision, breathing, temperature, hunger and every process that regulates the body. Together, the brain and spinal cord that extends from it make up the central nervous system, or CNS
