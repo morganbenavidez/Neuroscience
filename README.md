@@ -10,7 +10,7 @@ The different composition of neuron parts is why the two below appear as separat
 1.   Gray Matter - Primarily composed of Soma
 2.   White Matter - Axons and Myelin
 
-![This is an image](neuron_anatomy.jpeg)
+![This is an image](neuron_anatomy.jpg)
 
 1.   Soma - The round, central cell bodies
 2.   Axon - The long stems that connect neurons together
